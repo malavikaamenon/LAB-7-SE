@@ -24,11 +24,5 @@ Valid inputs preserve the lab's expected outputs.
 - Bandwidth tiers recognize HOT, COL, and ARC prefixes, case-insensitively.
 - Invalid or unsupported values return `None`.
 
-## Screenshot deliverables still to capture locally
-The handout requests screenshots of:
-1. Running the original buggy `processor.py`.
-2. Failing tests against the original buggy processor.
-3. Running the fixed `processor.py`.
-4. Passing tests against the fixed processor.
 
-The original versions are available in the uploaded files in this conversation.
+
